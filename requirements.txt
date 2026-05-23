@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+langgraph
+pyautogen
+sentence-transformers
+transformers
+torch
+faiss-cpu
+numpy
+requests
+beautifulsoup4
+duckduckgo-search
+redis
+sqlalchemy
+psycopg2-binary
+python-dotenv
